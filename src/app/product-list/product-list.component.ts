@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { ProductAlertsComponent } from "../product-alerts/ProductAlertsComponent";
 import { products } from '../products';
 
 @Component({
